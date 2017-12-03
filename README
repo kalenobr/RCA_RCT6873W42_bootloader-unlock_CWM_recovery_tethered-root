@@ -1,4 +1,4 @@
-This is for tracking changes to boot image and recovery for the RCA Voyager. Model RCT6873W42.
+This is for tracking changes to boot image and recovery for the RCA Voyager. Model Mode16773W22B.FFCI 25677322
 
 I started with borrowed CWM recovery from Vampirefo, then with that recovery (it did not boot with all mounts or even a screen, but it provided a working root shell)
 
